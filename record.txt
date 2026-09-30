@@ -1,0 +1,231 @@
+Create a modern, responsive, static website for "Navatanee Golf Course & Club" using only:
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+Project Structure:
+/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── assets/
+    ├── images/
+    └── icons/
+
+Design Requirements:
+- Luxury golf club appearance
+- Premium and elegant feeling
+- Modern UI/UX
+- Responsive design for Desktop, Tablet, Mobile
+- Color Theme:
+  - Dark Green (#0F5132)
+  - Golf Green (#2E7D32)
+  - Gold (#D4AF37)
+  - White (#FFFFFF)
+  - Light Gray (#F5F5F5)
+
+Navigation Menu:
+1. About Navatanee
+2. Membership
+3. Course Highlight
+4. Navatanee News
+5. Location
+6. Contact Us
+
+Website Layout:
+
+========================================
+HEADER
+========================================
+
+- Sticky Navigation Bar
+- Navatanee Logo on left
+- Menu on right
+- Smooth scrolling navigation
+- Mobile hamburger menu
+
+========================================
+HERO SECTION
+========================================
+
+Full width hero banner with:
+- Golf course background image
+- Dark overlay
+- Main Headline:
+  "Experience Thailand's Premier Golf Destination"
+- Sub Headline:
+  "Exclusive Membership, World-Class Golf Course, Unforgettable Experience"
+- CTA Buttons:
+   - Become a Member
+   - Explore Golf Course
+
+========================================
+ABOUT NAVATANEE
+========================================
+
+Two-column section
+
+Left:
+- Large image
+
+Right:
+- Club introduction
+- History
+- Vision
+- Key features
+
+Use modern card design
+
+========================================
+MEMBERSHIP
+========================================
+
+Display 3 membership plans
+
+Cards:
+- Individual Membership
+- Family Membership
+- Corporate Membership
+
+Each card contains:
+- Description
+- Benefits
+- Price Placeholder
+- Join Now Button
+
+Hover Animation Required
+
+========================================
+COURSE HIGHLIGHT
+========================================
+
+Display feature grid:
+
+- Championship Golf Course
+- Premium Clubhouse
+- Golf Academy
+- Fine Dining Restaurant
+- Practice Area
+- Event & Tournament Services
+
+Use icon cards with animations.
+
+========================================
+NAVATANEE NEWS
+========================================
+
+News card layout
+
+Show 6 sample news articles:
+
+Each card contains:
+- Image
+- Category
+- Date
+- Title
+- Short Description
+- Read More Button
+
+Add:
+- Filter by category using JavaScript
+
+========================================
+LOCATION
+========================================
+
+Split Layout:
+
+Left:
+- Club address
+- Contact details
+- Operating hours
+
+Right:
+- Embedded Google Map placeholder
+
+Add Directions button.
+
+========================================
+CONTACT US
+========================================
+
+Modern Contact Form:
+
+Fields:
+- Full Name
+- Email
+- Phone Number
+- Subject
+- Message
+
+Client-side validation using JavaScript.
+
+Display success message after submission.
+
+========================================
+FOOTER
+========================================
+
+Include:
+
+- Logo
+- Quick Links
+- Contact Information
+- Social Media Icons
+
+Copyright:
+© Navatanee Golf Course & Club
+
+========================================
+INTERACTIVE FEATURES
+========================================
+
+Implement:
+
+- Smooth scrolling
+- Sticky navbar
+- Mobile menu
+- Scroll reveal animations
+- Hover effects
+- Active menu highlighting
+- Back to top button
+- Contact form validation
+- News category filtering
+
+========================================
+PERFORMANCE
+========================================
+
+Requirements:
+
+- Clean HTML semantic structure
+- SEO-friendly markup
+- Accessibility best practices
+- Fast loading
+- No external frameworks
+- No Bootstrap
+- No jQuery
+
+Generate complete source code for:
+1. index.html
+2. style.css
+3. script.js
+
+Use production-quality code and professional UI design.
+
+Visual Style Inspiration:
+- Augusta National Golf Club
+- Sentosa Golf Club
+- St. Andrews Golf Course
+- Modern Luxury Resort Website
+
+UI Style:
+- Large hero images
+- Clean whitespace
+- Elegant typography
+- Smooth animation
+- Premium golf lifestyle feeling
+- Executive and high-class membership experience
